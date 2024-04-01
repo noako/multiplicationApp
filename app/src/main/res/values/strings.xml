@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="multiply">כפל</string>
+    <string name="division">חילוק</string>
+    <string name="random">גם וגם</string>
+    <string name="choose_number_text">בחר מספר או בחר בהפתעה</string>
+    <string name="back_to_main">חזרה</string>
+    <string name="number_prefix">המספר שנבחר הוא: </string>
+    <string name="random_number_text">בחרתם להגריל מספר</string>
+    <string name="multiply_textview_default">המספר שנבחר הוא: X</string>
+    <string name="multiply_exercise_textview_before">2 x 4 =  </string>
+    <string name="divide_exercise_textview_before">20 / 4 = </string>
+    <string name="exercise_result_before">\?</string>
+    <string name="success_one_more">תרגיל נוסף</string>
+    <string name="failed_try_again">נסה שוב</string>
+    <string name="action">action</string>
+    <string name="chosen_number">chosen_number</string>
+    <string name="multiplyAction">multiply</string>
+    <string name="divideAction">divide</string>
+    <string name="randomAction">random</string>
+    <string name="reveal">גלה לי</string>
+
+</resources>
